@@ -1,4 +1,4 @@
-## An intuitive and pleasant app to search for repositories on Github
+## An intuitive and pleasant app to search for repositories on Github made with React + Redux + Materialize CSS Framework
 
 
 <img width="1065" alt="01" src="https://user-images.githubusercontent.com/40496625/44561961-3636f500-a725-11e8-9e7c-2296e01b16e0.png">
