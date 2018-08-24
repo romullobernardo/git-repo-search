@@ -14,5 +14,5 @@ Link to the app: https://romullobernardo.github.io/git-repo-search/
 <br />
 
 1 - Just type your search on the search-bar <br />
-2 - Click on the desired repository and you'll be redirected to Github.
+2 - Click on the desired repository and you'll be redirected to Github. <br />
 3 - Enjoy!
